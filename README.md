@@ -27,6 +27,9 @@ I am highly motivated to create impactful solutions and am especially passionate
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 ## 🏆 Projects
@@ -42,6 +45,7 @@ _A recommendation app that uses google public api to recommend software engineer
 **Roles**: Project initiator, Task delegation  
 **Technologies**: Flask, Python
 [**GitHub Repository**](https://github.com/princedan-123/aidDev.git "my first flask project")
+
 ---
 
 ---
