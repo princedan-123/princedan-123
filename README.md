@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Daniel 👋</h1>
 <p align="center">
-  A graduating student of the <strong>ALX Software Engineering Program</strong>, passionate about turning ideas into reality through coding.
+  An alumni of <strong>ALX Software Engineering Program</strong>, passionate about turning ideas into reality through coding.
   <br>
   <i>"If you can imagine it, you can build it."</i>
 </p>
