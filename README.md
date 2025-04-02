@@ -35,23 +35,21 @@ I am highly motivated to create impactful solutions and am especially passionate
 ## 🏆 Projects
 
 ### **Eagle Eye**
-Eagle Eye is a chrome extension that detects and blocks access to websites containing pornography and pornographic web searches.
-**Role**:  Chrome Extension Developer, content filtering.
-**Technologies**: Javascript
-**Video Demo**: *Project has not been launched yet, coming shortly*
+Eagle Eye is a chrome extension that detects and blocks access to websites containing pornography and pornographic web searches.  
+**Role**:  Chrome Extension Developer, content filtering.  
+**Technologies**: Javascript  
+**Video Demo**: *Project has not been launched yet, coming shortly*  
 ### **ParentPal** - Educational Recommendation Portfolio Project  
-An educational recommendation app designed to recomend potential tutors to client based on location._  
+An educational recommendation app designed to recomend potential tutors to client based on location.  
 **Roles**: Collaborated in a team 
 **Technologies**: Node.js, Express, MongoDB, JavaScript redis
 [**GitHub Repository**](https://github.com/princedan-123/parentPal.git "portfolio project repo")
 
 ### **AidDev** - Software Engineering Learning Recommendation app
-A recommendation app that uses google public api to recommend software engineering learning materials to users._
+A recommendation app that uses google public api to recommend software engineering learning materials to users.
 **Roles**: Project initiator, Task delegation  
 **Technologies**: Flask, Python
 [**GitHub Repository**](https://github.com/princedan-123/aidDev.git "my first flask project")
-
----
 
 ---
 
@@ -59,8 +57,6 @@ A recommendation app that uses google public api to recommend software engineeri
 - **Consolidating my knowledge in Backend development (django, flask, express, node.js, mongodb, express Mysql)**
 - **Frontend Development** (jQuery, React, Next.js)
 - **Microservices Architecture**
----
-
 ---
 
 ## 📫 Let's Connect
