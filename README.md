@@ -34,14 +34,19 @@ I am highly motivated to create impactful solutions and am especially passionate
 ---
 ## 🏆 Projects
 
+### **Eagle Eye**
+Eagle Eye is a chrome extension that detects and blocks access to websites containing pornography and pornographic web searches.
+**Role**:  Chrome Extension Developer, content filtering.
+**Technologies**: Javascript
+**Video Demo**: *Project has not been launched yet, coming shortly*
 ### **ParentPal** - Educational Recommendation Portfolio Project  
-_An educational recommendation app designed to recomend potential tutors to client based on location._  
-**Roles**: Project initiator, Task delegation  
+An educational recommendation app designed to recomend potential tutors to client based on location._  
+**Roles**: Collaborated in a team 
 **Technologies**: Node.js, Express, MongoDB, JavaScript redis
 [**GitHub Repository**](https://github.com/princedan-123/parentPal.git "portfolio project repo")
 
 ### **AidDev** - Software Engineering Learning Recommendation app
-_A recommendation app that uses google public api to recommend software engineering learning materials to users._
+A recommendation app that uses google public api to recommend software engineering learning materials to users._
 **Roles**: Project initiator, Task delegation  
 **Technologies**: Flask, Python
 [**GitHub Repository**](https://github.com/princedan-123/aidDev.git "my first flask project")
@@ -52,7 +57,7 @@ _A recommendation app that uses google public api to recommend software engineer
 
 ## 🌱 What I'm Learning
 - **Consolidating my knowledge in Backend development (django, flask, express, node.js, mongodb, express Mysql)**
-- **Frontend Development** (React, Next.js)
+- **Frontend Development** (jQuery, React, Next.js)
 - **Microservices Architecture**
 ---
 
@@ -72,17 +77,3 @@ Feel free to reach out if you'd like to collaborate on exciting projects or disc
 <p align="center">
   <i>"If you can imagine it, you can build it."</i>
 </p>
-<!--
-**princedan-123/princedan-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
