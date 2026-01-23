@@ -39,6 +39,7 @@ Eagle Eye is a chrome extension that detects and blocks access to websites conta
 **Role**:  Chrome Extension Developer, content filtering.  
 **Technologies**: Javascript  
 **Download on Chrome Store**: [Store](https://chromewebstore.google.com/detail/eagle-eye/ochibjgemgfaloiedoecgfgbgaommooh)
+
 ### **ParentPal** - Educational Recommendation Portfolio Project  
 An educational recommendation app designed to recomend potential tutors to client based on location.  
 **Roles**: Collaborated in a team 
@@ -50,7 +51,7 @@ What2Watch is a modern, intuitive web application designed to help you discover 
 
 **Roles** Project Initiator
 **Technologies**: Python,FastAPI, Javascript, React, React Router, React Query, HTML5 and CSS3
-
+[**GitHub Repository**](https://github.com/princedan-123/what2watch_frontend)
 
 ### **AidDev** - Software Engineering Learning Recommendation app
 A recommendation app that uses google public api to recommend software engineering learning materials to users.
