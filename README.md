@@ -50,7 +50,9 @@ An educational recommendation app designed to recomend potential tutors to clien
 What2Watch is a modern, intuitive web application designed to help you discover your next favorite movie or TV series. Say goodbye to endless scrolling through streaming platforms – What2Watch provides personalized recommendations based on your preferences, making it easier than ever to decide what to watch next.
 
 **Roles** Project Initiator
+<br>
 **Technologies**: Python,FastAPI, Javascript, React, React Router, React Query, HTML5 and CSS3
+<br>
 [**GitHub Repository**](https://github.com/princedan-123/what2watch_frontend)
 
 ### **AidDev** - Software Engineering Learning Recommendation app
