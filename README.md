@@ -62,8 +62,8 @@ A recommendation app that uses google public api to recommend software engineeri
 ---
 
 ## 🌱 What I'm Learning
-- **Consolidating my knowledge in Backend development (django, flask, express, node.js, mongodb, express Mysql)**
-- **Frontend Development** (jQuery, React, Next.js)
+- **Consolidating my knowledge in Backend development (django, FastAPI, express, node.js, mongodb, express Mysql)**
+- **Frontend Development** (React,Tailwind)
 - **Microservices Architecture**
 ---
 
