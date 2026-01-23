@@ -38,12 +38,18 @@ I am highly motivated to create impactful solutions and am especially passionate
 Eagle Eye is a chrome extension that detects and blocks access to websites containing pornography and pornographic web searches.  
 **Role**:  Chrome Extension Developer, content filtering.  
 **Technologies**: Javascript  
-**Video Demo**: *Project has not been launched yet, coming shortly*  
+**Download on Chrome Store**: [Store](https://chromewebstore.google.com/detail/eagle-eye/ochibjgemgfaloiedoecgfgbgaommooh)
 ### **ParentPal** - Educational Recommendation Portfolio Project  
 An educational recommendation app designed to recomend potential tutors to client based on location.  
 **Roles**: Collaborated in a team 
 **Technologies**: Node.js, Express, MongoDB, JavaScript redis
 [**GitHub Repository**](https://github.com/princedan-123/parentPal.git "portfolio project repo")
+
+### **What2Watch** - Movie/tvshow app
+What2Watch is a modern, intuitive web application designed to help you discover your next favorite movie or TV series. Say goodbye to endless scrolling through streaming platforms – What2Watch provides personalized recommendations based on your preferences, making it easier than ever to decide what to watch next.
+**Roles** Project Initiator
+**Technologies**: Python,FastAPI, Javascript, React, React Router, React Query, HTML5 and CSS3
+
 
 ### **AidDev** - Software Engineering Learning Recommendation app
 A recommendation app that uses google public api to recommend software engineering learning materials to users.
